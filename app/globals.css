@@ -30,7 +30,7 @@
   --color-background: var(--background);
   --color-foreground: var(--foreground);
 
-  --font-work-sans: "Work Sans", sans-serif;
+  --font-work-sans: var(--font-work-sans);
 }
 
 @layer utilities {
